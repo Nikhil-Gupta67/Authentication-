@@ -71,3 +71,5 @@ A simple Flask-based authentication application with registration and login page
 - Add logout functionality
 - Add email verification or password reset
 - Secure the secret key and database configuration for production
+
+##Created By--
