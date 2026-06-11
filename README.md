@@ -73,3 +73,4 @@ A simple Flask-based authentication application with registration and login page
 - Secure the secret key and database configuration for production
 
 ##Created By--
+Nikhil Gupta
