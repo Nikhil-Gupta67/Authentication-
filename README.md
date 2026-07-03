@@ -1,4 +1,4 @@
-# Flask Login Authentication System
+# Flask Login Authentication System-
 
 A simple Flask-based authentication application with registration and login pages, using SQLAlchemy and WTForms for database and form validation.
 
