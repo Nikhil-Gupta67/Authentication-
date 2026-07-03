@@ -2,7 +2,7 @@
 
 A simple Flask-based authentication application with registration and login pages, using SQLAlchemy and WTForms for database and form validation.
 
-## Features
+## Features-
 
 - User registration with username, email, and password
 - Password hashing using Werkzeug security
